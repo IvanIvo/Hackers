@@ -11,6 +11,7 @@ public class testClass {
 		System.out.println("ebasi tupoto debel");
 		System.out.println("ebasi tupoto debelako");
 		System.out.println("e sega mu ebah maikata");
+		System.out.println("e sega mu ebah maikatasdasda");
 	}
 
 }
